@@ -21,4 +21,6 @@ MapReduce：基于Google发布的分布式计算框架MapReduce论文设计开�
 YARN：是Hadoop2.0中的资源管理系统，它是一个通用的资源管理模，可为各类应用程序进行资源管理和调度。可支持MapReduce，Spark，Storm等多种框。
 Yarn的优势有：资源利用率低；运维成本低；数据共享方便。
 
+#### EleasticSearch
+
 ## CloudComputing
